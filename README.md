@@ -1,2 +1,5 @@
 # biketown
-Biketown data viz for cRaggy show &amp; tell at 2018 Cascadia R Conference
+Visualization of BIKETOWN data for cRaggy show-and-tell at 2018 Cascadia R Conference
+
+
+
